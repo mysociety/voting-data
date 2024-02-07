@@ -1,4 +1,4 @@
-import template_data_repo
+import voting_data
 
 import pytest
 

@@ -1,5 +1,5 @@
 ---
-title: "Download template_data_repo"
+title: "Download voting_data"
 layout: datasets/front
 ---
 
