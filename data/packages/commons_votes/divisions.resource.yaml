@@ -1,0 +1,133 @@
+title: Divisions
+description: House of Commmons divisions as avaliable through the Commons Votes API
+custom:
+  row_count: 1739
+path: divisions.parquet
+name: divisions
+profile: data-resource
+scheme: file
+format: parquet
+hashing: md5
+encoding: utf-8
+schema:
+  fields:
+  - name: division_id
+    type: integer
+    description: Internal ID for the division
+    constraints:
+      unique: false
+    example: 2
+  - name: date
+    type: string
+    description: Date and time of the division
+    constraints:
+      unique: false
+    example: '2016-03-09T18:50:00'
+  - name: publication_updated
+    type: string
+    description: Date and time the division was last updated
+    constraints:
+      unique: false
+    example: '2016-03-15T12:07:14.623'
+  - name: number
+    type: integer
+    description: Division number (unique to day)
+    constraints:
+      unique: false
+    example: 1
+  - name: is_deferred
+    type: boolean
+    description: Whether the division was deferred
+    constraints:
+      unique: false
+      enum:
+      - false
+      - true
+    example: 'False'
+  - name: evel_type
+    type: string
+    description: Whether the division was an English Votes for English Laws division
+    constraints:
+      unique: false
+      enum:
+      - ''
+      - Country
+      - Double Majority
+    example: ''
+  - name: evel_country
+    type: string
+    description: Country for English Votes for English Laws division
+    constraints:
+      unique: false
+      enum:
+      - ''
+      - England
+      - England and Wales
+    example: ''
+  - name: title
+    type: string
+    description: Title of the division
+    constraints:
+      unique: false
+    example: "\tElections Bill: Government Motion to disagree to Lords Amendment 23"
+  - name: aye_count
+    type: integer
+    description: Number of aye votes
+    constraints:
+      unique: false
+    example: 0
+  - name: no_count
+    type: integer
+    description: Number of no votes
+    constraints:
+      unique: false
+    example: 0
+  - name: double_majority_aye_count
+    type: number
+    description: Number of aye votes for double majority (EVEL)
+    constraints:
+      unique: false
+    example: 199.0
+  - name: double_majority_no_count
+    type: number
+    description: Number of no votes for double majority (EVEL)
+    constraints:
+      unique: false
+    example: 3.0
+  - name: friendly_description
+    type: string
+    description: Friendly description of the division
+    constraints:
+      unique: false
+    example: "21:30"
+  - name: friendly_title
+    type: string
+    description: Friendly title of the division
+    constraints:
+      unique: false
+    example: "Business of the House (Private Members' Bills): Amendment (a)"
+  - name: remote_voting_start
+    type: string
+    description: Date and time remote voting started
+    constraints:
+      unique: false
+    example: '2020-05-12T17:48:53'
+  - name: remote_voting_end
+    type: string
+    description: Date and time remote voting ended
+    constraints:
+      unique: false
+    example: '2020-05-12T18:03:53'
+  - name: division_key
+    type: string
+    description: Unique key for the division for TWFY
+    constraints:
+      unique: false
+    example: pw-2016-03-09-211-commons
+  - name: twfy_link
+    type: string
+    description: Link to the division on TheyWorkForYou
+    constraints:
+      unique: false
+    example: https://www.theyworkforyou.com/divisions/pw-2016-03-09-211-commons
+hash: d9ae5444a06e0bb4e932d1fd7eb27805

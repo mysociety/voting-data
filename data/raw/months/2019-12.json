@@ -1,0 +1,38 @@
+[
+  {
+    "division_id": 737,
+    "date": "2019-12-20T14:32:00",
+    "publication_updated": "2019-12-20T14:56:56",
+    "number": 2,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "European Union (Withdrawal Agreement) Bill: Programme Motion",
+    "aye_count": 353,
+    "no_count": 243,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null
+  },
+  {
+    "division_id": 736,
+    "date": "2019-12-20T14:14:00",
+    "publication_updated": "2019-12-20T14:54:41",
+    "number": 1,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "European Union (Withdrawal Agreement) Bill: Second Reading",
+    "aye_count": 358,
+    "no_count": 234,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null
+  }
+]

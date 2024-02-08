@@ -1,0 +1,38 @@
+[
+  {
+    "division_id": 685,
+    "date": "2019-05-15T00:00:00",
+    "publication_updated": "2019-05-15T15:57:20",
+    "number": 416,
+    "is_deferred": true,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Russia (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019, No. 855) ",
+    "aye_count": 294,
+    "no_count": 184,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null
+  },
+  {
+    "division_id": 684,
+    "date": "2019-05-14T18:56:00",
+    "publication_updated": "2019-05-14T19:16:53",
+    "number": 415,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Health - Opposition day motion ",
+    "aye_count": 230,
+    "no_count": 286,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null
+  }
+]

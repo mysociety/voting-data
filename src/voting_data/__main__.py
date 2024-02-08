@@ -1,5 +1,7 @@
 import rich_click as click
 
+from .commons_votes import get_all_months, process_votes
+
 
 @click.group()
 def cli():
@@ -11,8 +13,9 @@ def main():
 
 
 @cli.command()
-def example():
-    print("This is an example function")
+def load_commons_votes():
+    get_all_months()
+    process_votes()
 
 
 if __name__ == "__main__":
