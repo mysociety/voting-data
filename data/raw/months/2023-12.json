@@ -15,7 +15,9 @@
     "friendly_description": null,
     "friendly_title": null,
     "remote_voting_start": null,
-    "remote_voting_end": null
+    "remote_voting_end": null,
+    "division_key": "pw-2023-12-13-33-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2023-12-13-33-commons"
   },
   {
     "division_id": 1696,
@@ -33,7 +35,9 @@
     "friendly_description": null,
     "friendly_title": null,
     "remote_voting_start": null,
-    "remote_voting_end": null
+    "remote_voting_end": null,
+    "division_key": "pw-2023-12-13-32-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2023-12-13-32-commons"
   },
   {
     "division_id": 1695,
@@ -51,7 +55,9 @@
     "friendly_description": null,
     "friendly_title": null,
     "remote_voting_start": null,
-    "remote_voting_end": null
+    "remote_voting_end": null,
+    "division_key": "pw-2023-12-13-31-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2023-12-13-31-commons"
   },
   {
     "division_id": 1694,
@@ -69,7 +75,9 @@
     "friendly_description": null,
     "friendly_title": null,
     "remote_voting_start": null,
-    "remote_voting_end": null
+    "remote_voting_end": null,
+    "division_key": "pw-2023-12-13-30-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2023-12-13-30-commons"
   },
   {
     "division_id": 1693,
@@ -87,7 +95,9 @@
     "friendly_description": null,
     "friendly_title": null,
     "remote_voting_start": null,
-    "remote_voting_end": null
+    "remote_voting_end": null,
+    "division_key": "pw-2023-12-13-29-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2023-12-13-29-commons"
   },
   {
     "division_id": 1692,
@@ -105,7 +115,9 @@
     "friendly_description": null,
     "friendly_title": null,
     "remote_voting_start": null,
-    "remote_voting_end": null
+    "remote_voting_end": null,
+    "division_key": "pw-2023-12-12-28-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2023-12-12-28-commons"
   },
   {
     "division_id": 1691,
@@ -123,7 +135,9 @@
     "friendly_description": null,
     "friendly_title": null,
     "remote_voting_start": null,
-    "remote_voting_end": null
+    "remote_voting_end": null,
+    "division_key": "pw-2023-12-12-27-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2023-12-12-27-commons"
   },
   {
     "division_id": 1690,
@@ -141,7 +155,9 @@
     "friendly_description": null,
     "friendly_title": null,
     "remote_voting_start": null,
-    "remote_voting_end": null
+    "remote_voting_end": null,
+    "division_key": "pw-2023-12-12-26-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2023-12-12-26-commons"
   },
   {
     "division_id": 1689,
@@ -159,7 +175,9 @@
     "friendly_description": null,
     "friendly_title": null,
     "remote_voting_start": null,
-    "remote_voting_end": null
+    "remote_voting_end": null,
+    "division_key": "pw-2023-12-04-25-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2023-12-04-25-commons"
   },
   {
     "division_id": 1688,
@@ -177,7 +195,9 @@
     "friendly_description": null,
     "friendly_title": null,
     "remote_voting_start": null,
-    "remote_voting_end": null
+    "remote_voting_end": null,
+    "division_key": "pw-2023-12-04-24-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2023-12-04-24-commons"
   },
   {
     "division_id": 1687,
@@ -195,7 +215,9 @@
     "friendly_description": null,
     "friendly_title": null,
     "remote_voting_start": null,
-    "remote_voting_end": null
+    "remote_voting_end": null,
+    "division_key": "pw-2023-12-04-23-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2023-12-04-23-commons"
   },
   {
     "division_id": 1686,
@@ -213,7 +235,9 @@
     "friendly_description": null,
     "friendly_title": null,
     "remote_voting_start": null,
-    "remote_voting_end": null
+    "remote_voting_end": null,
+    "division_key": "pw-2023-12-04-22-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2023-12-04-22-commons"
   },
   {
     "division_id": 1685,
@@ -231,6 +255,8 @@
     "friendly_description": null,
     "friendly_title": null,
     "remote_voting_start": null,
-    "remote_voting_end": null
+    "remote_voting_end": null,
+    "division_key": "pw-2023-12-04-21-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2023-12-04-21-commons"
   }
 ]
