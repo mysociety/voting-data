@@ -49,6 +49,9 @@ class Month(NamedTuple):
     def is_current(self) -> bool:
         return self == self.current_month()
 
+    def is_future(self) -> bool:
+        return self.months_to_current() < 0
+
     def months_to_current(self) -> int:
         current = self.current_month()
         return (current.year - self.year) * 12 + current.month - self.month
@@ -57,7 +60,7 @@ class Month(NamedTuple):
     @to_list
     def all_months(cls) -> Iterator[Month]:
         month = Month(2016, 3)
-        while not month.is_current():
+        while not month.is_future():
             yield month
             month = month.next()
 
