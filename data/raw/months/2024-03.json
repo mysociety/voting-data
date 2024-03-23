@@ -1,5 +1,25 @@
 [
   {
+    "division_id": 1776,
+    "date": "2024-03-22T11:32:00",
+    "publication_updated": "2024-03-22T12:01:46",
+    "number": 112,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Hunting Trophies Bill 2R",
+    "aye_count": 49,
+    "no_count": 0,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2024-03-22-112-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2024-03-22-112-commons"
+  },
+  {
     "division_id": 1775,
     "date": "2024-03-19T17:33:00",
     "publication_updated": "2024-03-19T18:02:20",
