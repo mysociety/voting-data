@@ -1,5 +1,25 @@
 [
   {
+    "division_id": 1832,
+    "date": "2024-07-29T21:48:00",
+    "publication_updated": "2024-07-29T22:10:13",
+    "number": 6,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Passenger Railway Services Bill (Public Ownership) Bill: Second Reading",
+    "aye_count": 351,
+    "no_count": 84,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2024-07-29-6-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2024-07-29-6-commons"
+  },
+  {
     "division_id": 1831,
     "date": "2024-07-25T13:08:00",
     "publication_updated": "2024-07-25T13:33:27",
