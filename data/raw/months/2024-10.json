@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "division_id": 1843,
+    "date": "2024-10-08T18:59:00",
+    "publication_updated": "2024-10-08T19:18:13",
+    "number": 17,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Opposition Day: Farming and food security",
+    "aye_count": 187,
+    "no_count": 359,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2024-10-08-17-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2024-10-08-17-commons"
+  },
+  {
+    "division_id": 1842,
+    "date": "2024-10-08T16:16:00",
+    "publication_updated": "2024-10-08T17:04:06",
+    "number": 16,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Opposition Day: VAT on independent schools",
+    "aye_count": 190,
+    "no_count": 363,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2024-10-08-16-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2024-10-08-16-commons"
+  }
+]
