@@ -1,5 +1,25 @@
 [
   {
+    "division_id": 1844,
+    "date": "2024-10-09T19:00:00",
+    "publication_updated": "2024-10-09T19:26:18",
+    "number": 18,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Renters' Rights Bill: Reasoned Amendment to Second Reading",
+    "aye_count": 104,
+    "no_count": 424,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2024-10-09-18-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2024-10-09-18-commons"
+  },
+  {
     "division_id": 1843,
     "date": "2024-10-08T18:59:00",
     "publication_updated": "2024-10-08T19:18:13",
@@ -22,7 +42,7 @@
   {
     "division_id": 1842,
     "date": "2024-10-08T16:16:00",
-    "publication_updated": "2024-10-08T17:04:06",
+    "publication_updated": "2024-10-09T12:01:49",
     "number": 16,
     "is_deferred": false,
     "evel_type": "",
