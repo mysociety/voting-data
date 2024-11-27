@@ -1,8 +1,28 @@
 [
   {
+    "division_id": 1874,
+    "date": "2024-11-26T18:46:00",
+    "publication_updated": "2024-11-26T19:06:30",
+    "number": 48,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Tobacco and Vapes Bill: Second Reading",
+    "aye_count": 415,
+    "no_count": 47,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2024-11-26-48-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2024-11-26-48-commons"
+  },
+  {
     "division_id": 1873,
     "date": "2024-11-25T21:50:00",
-    "publication_updated": "2024-11-25T22:12:20",
+    "publication_updated": "2024-11-26T09:52:43",
     "number": 47,
     "is_deferred": false,
     "evel_type": "",
@@ -22,7 +42,7 @@
   {
     "division_id": 1872,
     "date": "2024-11-25T21:34:00",
-    "publication_updated": "2024-11-25T22:03:49",
+    "publication_updated": "2024-11-26T14:34:49",
     "number": 46,
     "is_deferred": false,
     "evel_type": "",
@@ -42,7 +62,7 @@
   {
     "division_id": 1871,
     "date": "2024-11-19T15:06:00",
-    "publication_updated": "2024-11-19T19:42:28",
+    "publication_updated": "2024-11-26T13:34:44",
     "number": 45,
     "is_deferred": false,
     "evel_type": "",
