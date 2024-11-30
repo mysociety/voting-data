@@ -1,5 +1,25 @@
 [
   {
+    "division_id": 1877,
+    "date": "2024-11-29T14:08:00",
+    "publication_updated": "2024-11-29T14:29:20",
+    "number": 51,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Terminally Ill Adults (End of Life) Bill: Second Reading",
+    "aye_count": 330,
+    "no_count": 275,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2024-11-29-51-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2024-11-29-51-commons"
+  },
+  {
     "division_id": 1876,
     "date": "2024-11-27T19:06:00",
     "publication_updated": "2024-11-27T19:21:14",
@@ -42,7 +62,7 @@
   {
     "division_id": 1874,
     "date": "2024-11-26T18:46:00",
-    "publication_updated": "2024-11-27T15:42:11",
+    "publication_updated": "2024-11-29T12:53:59",
     "number": 48,
     "is_deferred": false,
     "evel_type": "",
