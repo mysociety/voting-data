@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "division_id": 1900,
+    "date": "2025-01-08T18:47:00",
+    "publication_updated": "2025-01-08T19:19:55",
+    "number": 74,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Reasoned amendment on Children's Wellbeing and Schools Bill",
+    "aye_count": 111,
+    "no_count": 364,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2025-01-08-74-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2025-01-08-74-commons"
+  }
+]
