@@ -1,5 +1,25 @@
 [
   {
+    "division_id": 2032,
+    "date": "2025-05-22T14:54:00",
+    "publication_updated": "2025-05-22T15:08:29",
+    "number": 206,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Data Use and Access Bill: motion to disagree to Lords Amendment 49D",
+    "aye_count": 195,
+    "no_count": 124,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2025-05-22-206-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2025-05-22-206-commons"
+  },
+  {
     "division_id": 2031,
     "date": "2025-05-21T18:59:00",
     "publication_updated": "2025-05-21T19:23:19",
@@ -22,7 +42,7 @@
   {
     "division_id": 2030,
     "date": "2025-05-21T16:32:00",
-    "publication_updated": "2025-05-21T16:48:44",
+    "publication_updated": "2025-05-22T14:54:58",
     "number": 204,
     "is_deferred": false,
     "evel_type": "",
