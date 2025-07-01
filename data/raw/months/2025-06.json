@@ -1,5 +1,25 @@
 [
   {
+    "division_id": 2072,
+    "date": "2025-06-30T20:02:00",
+    "publication_updated": "2025-06-30T21:18:28",
+    "number": 246,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Draft Marking of Retail Goods Regulations 2025",
+    "aye_count": 315,
+    "no_count": 4,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2025-06-30-246-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2025-06-30-246-commons"
+  },
+  {
     "division_id": 2071,
     "date": "2025-06-20T14:14:00",
     "publication_updated": "2025-06-20T14:39:36",
