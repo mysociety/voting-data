@@ -1,5 +1,25 @@
 [
   {
+    "division_id": 2079,
+    "date": "2025-07-04T09:34:00",
+    "publication_updated": "2025-07-04T09:53:50",
+    "number": 253,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Motion to sit in private",
+    "aye_count": 1,
+    "no_count": 33,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2025-07-04-253-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2025-07-04-253-commons"
+  },
+  {
     "division_id": 2078,
     "date": "2025-07-02T17:27:00",
     "publication_updated": "2025-07-02T18:02:01",
