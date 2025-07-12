@@ -1,7 +1,7 @@
 title: Divisions
 description: House of Commmons divisions as avaliable through the Commons Votes API
 custom:
-  row_count: 2100
+  row_count: 2102
 path: divisions.parquet
 name: divisions
 profile: data-resource
@@ -130,4 +130,4 @@ schema:
     constraints:
       unique: false
     example: https://www.theyworkforyou.com/divisions/pw-2016-03-09-211-commons
-hash: ecb5c3d05943b9dd70fde9ee2df29c5a
+hash: aba4f65060a1a1c22b3a36f505f05b03
