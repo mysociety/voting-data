@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "division_id": 2099,
+    "date": "2025-09-02T19:14:00",
+    "publication_updated": "2025-09-02T19:35:55",
+    "number": 273,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "English Devolution and Community Empowerment Bill: Second Reading",
+    "aye_count": 365,
+    "no_count": 164,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2025-09-02-273-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2025-09-02-273-commons"
+  },
+  {
+    "division_id": 2098,
+    "date": "2025-09-02T18:59:00",
+    "publication_updated": "2025-09-02T19:19:14",
+    "number": 272,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "English Devolution and Community Empowerment Bill: Reasoned Amendment",
+    "aye_count": 167,
+    "no_count": 367,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2025-09-02-272-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2025-09-02-272-commons"
+  }
+]
