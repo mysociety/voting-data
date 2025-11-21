@@ -20,6 +20,26 @@
     "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2025-11-19-361-commons"
   },
   {
+    "division_id": 2189,
+    "date": "2025-11-19T00:00:00",
+    "publication_updated": "2025-11-20T11:13:17",
+    "number": 360,
+    "is_deferred": true,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Draft Radio Equipment (Amendment) (Northern Ireland) Regulations 2025",
+    "aye_count": 376,
+    "no_count": 16,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2025-11-19-360-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2025-11-19-360-commons"
+  },
+  {
     "division_id": 2188,
     "date": "2025-11-18T19:12:00",
     "publication_updated": "2025-11-19T10:51:20",
@@ -242,7 +262,7 @@
   {
     "division_id": 2176,
     "date": "2025-11-13T16:22:00",
-    "publication_updated": "2025-11-19T14:43:03",
+    "publication_updated": "2025-11-20T17:37:19",
     "number": 348,
     "is_deferred": false,
     "evel_type": "",
