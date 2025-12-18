@@ -1,8 +1,28 @@
 [
   {
+    "division_id": 2224,
+    "date": "2025-12-17T18:45:00",
+    "publication_updated": "2025-12-17T19:14:26",
+    "number": 395,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "National Insurance Contributions (Employer Pensions Contributions) Bill: Second Reading",
+    "aye_count": 312,
+    "no_count": 165,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2025-12-17-395-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2025-12-17-395-commons"
+  },
+  {
     "division_id": 2223,
     "date": "2025-12-16T19:16:00",
-    "publication_updated": "2025-12-16T20:09:32",
+    "publication_updated": "2025-12-17T16:31:10",
     "number": 394,
     "is_deferred": false,
     "evel_type": "",
@@ -22,7 +42,7 @@
   {
     "division_id": 2222,
     "date": "2025-12-16T19:02:00",
-    "publication_updated": "2025-12-16T19:31:11",
+    "publication_updated": "2025-12-17T12:22:36",
     "number": 393,
     "is_deferred": false,
     "evel_type": "",
