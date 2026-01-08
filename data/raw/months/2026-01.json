@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "division_id": 2226,
+    "date": "2026-01-07T18:59:00",
+    "publication_updated": "2026-01-07T19:14:27",
+    "number": 397,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Opposition Day: Rural communities",
+    "aye_count": 105,
+    "no_count": 332,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2026-01-07-397-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2026-01-07-397-commons"
+  },
+  {
+    "division_id": 2225,
+    "date": "2026-01-07T15:58:00",
+    "publication_updated": "2026-01-07T19:15:55",
+    "number": 396,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Opposition Day: Jury trials",
+    "aye_count": 182,
+    "no_count": 290,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2026-01-07-396-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2026-01-07-396-commons"
+  }
+]
