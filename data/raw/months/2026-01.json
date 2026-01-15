@@ -1,5 +1,25 @@
 [
   {
+    "division_id": 2238,
+    "date": "2026-01-14T00:00:00",
+    "publication_updated": "2026-01-14T17:00:28",
+    "number": 409,
+    "is_deferred": true,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Draft Public Order Act 2023 (Interference With Use or Operation of Key National Infrastructure) Regulations 2025",
+    "aye_count": 301,
+    "no_count": 110,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2026-01-14-409-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2026-01-14-409-commons"
+  },
+  {
     "division_id": 2237,
     "date": "2026-01-13T20:22:00",
     "publication_updated": "2026-01-13T21:31:31",
@@ -22,7 +42,7 @@
   {
     "division_id": 2236,
     "date": "2026-01-13T20:10:00",
-    "publication_updated": "2026-01-13T21:31:07",
+    "publication_updated": "2026-01-14T12:12:58",
     "number": 407,
     "is_deferred": false,
     "evel_type": "",
@@ -42,7 +62,7 @@
   {
     "division_id": 2235,
     "date": "2026-01-13T19:56:00",
-    "publication_updated": "2026-01-13T21:30:50",
+    "publication_updated": "2026-01-14T18:20:56",
     "number": 406,
     "is_deferred": false,
     "evel_type": "",
@@ -82,7 +102,7 @@
   {
     "division_id": 2233,
     "date": "2026-01-13T16:38:00",
-    "publication_updated": "2026-01-13T21:29:53",
+    "publication_updated": "2026-01-14T16:37:52",
     "number": 404,
     "is_deferred": false,
     "evel_type": "",
@@ -102,7 +122,7 @@
   {
     "division_id": 2232,
     "date": "2026-01-13T16:22:00",
-    "publication_updated": "2026-01-13T21:29:28",
+    "publication_updated": "2026-01-14T18:23:42",
     "number": 403,
     "is_deferred": false,
     "evel_type": "",
@@ -202,7 +222,7 @@
   {
     "division_id": 2227,
     "date": "2026-01-12T18:48:00",
-    "publication_updated": "2026-01-12T19:06:55",
+    "publication_updated": "2026-01-14T15:59:57",
     "number": 398,
     "is_deferred": false,
     "evel_type": "",
