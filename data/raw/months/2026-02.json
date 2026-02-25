@@ -1,8 +1,28 @@
 [
   {
+    "division_id": 2266,
+    "date": "2026-02-24T19:00:00",
+    "publication_updated": "2026-02-24T19:41:02",
+    "number": 434,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Opposition Day: Protections for children from online harms",
+    "aye_count": 69,
+    "no_count": 279,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2026-02-24-434-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2026-02-24-434-commons"
+  },
+  {
     "division_id": 2265,
     "date": "2026-02-23T22:46:00",
-    "publication_updated": "2026-02-23T23:02:23",
+    "publication_updated": "2026-02-24T15:23:30",
     "number": 433,
     "is_deferred": false,
     "evel_type": "",
@@ -22,7 +42,7 @@
   {
     "division_id": 2264,
     "date": "2026-02-23T22:21:00",
-    "publication_updated": "2026-02-23T23:02:31",
+    "publication_updated": "2026-02-24T15:22:57",
     "number": 432,
     "is_deferred": false,
     "evel_type": "",
@@ -42,7 +62,7 @@
   {
     "division_id": 2263,
     "date": "2026-02-23T20:32:00",
-    "publication_updated": "2026-02-23T23:03:19",
+    "publication_updated": "2026-02-24T15:22:25",
     "number": 431,
     "is_deferred": false,
     "evel_type": "",
@@ -62,7 +82,7 @@
   {
     "division_id": 2262,
     "date": "2026-02-23T20:17:00",
-    "publication_updated": "2026-02-23T23:03:30",
+    "publication_updated": "2026-02-24T15:20:48",
     "number": 430,
     "is_deferred": false,
     "evel_type": "",
