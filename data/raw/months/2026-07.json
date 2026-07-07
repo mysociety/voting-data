@@ -1,5 +1,25 @@
 [
   {
+    "division_id": 2400,
+    "date": "2026-07-06T19:19:00",
+    "publication_updated": "2026-07-06T19:37:13",
+    "number": 49,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+    "aye_count": 394,
+    "no_count": 85,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2026-07-06-49-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2026-07-06-49-commons"
+  },
+  {
     "division_id": 2399,
     "date": "2026-07-01T16:01:00",
     "publication_updated": "2026-07-02T09:36:07",
