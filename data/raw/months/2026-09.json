@@ -1,5 +1,25 @@
 [
   {
+    "division_id": 2424,
+    "date": "2026-09-09T00:00:00",
+    "publication_updated": "2026-09-09T16:57:19",
+    "number": 72,
+    "is_deferred": true,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Draft Plant Health, Seeds, Seed Potatoes and Plant Propagating Material  (Amendment) (Northern Ireland) Regulations 2026",
+    "aye_count": 371,
+    "no_count": 100,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2026-09-09-72-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2026-09-09-72-commons"
+  },
+  {
     "division_id": 2423,
     "date": "2026-09-08T18:39:00",
     "publication_updated": "2026-09-08T18:57:13",
@@ -82,7 +102,7 @@
   {
     "division_id": 2419,
     "date": "2026-09-07T22:14:00",
-    "publication_updated": "2026-09-08T16:04:17",
+    "publication_updated": "2026-09-09T17:24:23",
     "number": 67,
     "is_deferred": false,
     "evel_type": "",
