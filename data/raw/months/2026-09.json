@@ -1,5 +1,25 @@
 [
   {
+    "division_id": 2425,
+    "date": "2026-09-10T16:58:00",
+    "publication_updated": "2026-09-10T17:16:19",
+    "number": 73,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Social Housing Bill [Lords]: Reasoned Amendment to Second Reading",
+    "aye_count": 77,
+    "no_count": 292,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2026-09-10-73-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2026-09-10-73-commons"
+  },
+  {
     "division_id": 2424,
     "date": "2026-09-09T00:00:00",
     "publication_updated": "2026-09-09T16:57:19",
