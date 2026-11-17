@@ -1,5 +1,25 @@
 [
   {
+    "division_id": 2481,
+    "date": "2026-11-16T21:58:00",
+    "publication_updated": "2026-11-16T22:23:00",
+    "number": 122,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Visitor Levy (England) Bill Second Reading",
+    "aye_count": 296,
+    "no_count": 96,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2026-11-16-122-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2026-11-16-122-commons"
+  },
+  {
     "division_id": 2480,
     "date": "2026-11-11T18:59:00",
     "publication_updated": "2026-11-11T19:16:43",
@@ -182,7 +202,7 @@
   {
     "division_id": 2470,
     "date": "2026-11-03T19:52:00",
-    "publication_updated": "2026-11-10T19:49:05",
+    "publication_updated": "2026-11-16T13:58:18",
     "number": 112,
     "is_deferred": false,
     "evel_type": "",
@@ -282,7 +302,7 @@
   {
     "division_id": 2465,
     "date": "2026-11-03T18:48:00",
-    "publication_updated": "2026-11-11T19:38:20",
+    "publication_updated": "2026-11-16T11:39:33",
     "number": 107,
     "is_deferred": false,
     "evel_type": "",
