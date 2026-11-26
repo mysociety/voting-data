@@ -1,5 +1,25 @@
 [
   {
+    "division_id": 2498,
+    "date": "2026-11-25T17:56:00",
+    "publication_updated": "2026-11-25T18:12:35",
+    "number": 138,
+    "is_deferred": false,
+    "evel_type": "",
+    "evel_country": "",
+    "title": "Opposition day: Restoration and renewal of the Palace of Westminster",
+    "aye_count": 102,
+    "no_count": 291,
+    "double_majority_aye_count": null,
+    "double_majority_no_count": null,
+    "friendly_description": null,
+    "friendly_title": null,
+    "remote_voting_start": null,
+    "remote_voting_end": null,
+    "division_key": "pw-2026-11-25-138-commons",
+    "twfy_link": "https://www.theyworkforyou.com/divisions/pw-2026-11-25-138-commons"
+  },
+  {
     "division_id": 2497,
     "date": "2026-11-24T19:54:00",
     "publication_updated": "2026-11-24T20:23:54",
